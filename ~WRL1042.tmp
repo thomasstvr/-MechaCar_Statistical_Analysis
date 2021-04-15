@@ -48,8 +48,4 @@ Again, Lot3 falls below the significance level (.05) with a p-value of .04168. T
 
 ## Study Design: MechaCar vs Competition
 
-To compare the MechaCar against its competition we should first start by comparing it to all other vehicles, then move to comparing it to vehicles of the same type. Metrics of interest would be fuel economy (both city and highway), warranty (length and type of coverage), horsepower rating, 0-60 (mph) times, quarter miles times etc.
-
-Let’s say we are targeting budget minded sports car customers who want to buy the fastest vehicle that maintains decent fuel mileage while spending less. We want to test the hypothesis that MechaCar is faster, costs less and gets better fuel mileage than the competition.  
-
-To do this, we first collect all data of interest (price, fuel mileage, 0-60 and quarter mile times) from all available vehicles. This data would then be used to calculate the mean and standard deviation of the population then compared to that of MechaCar’s specifications. Once this has been done, we can then compare MechaCar to only other sports cars in the same manner. The more standard deviations above the competition, in fuel mileage as well as performance times, the better and vice versa for price. This then can be used to accept or reject our initial hypothesis.
+In order to compare the MechaCar against it’s competition we should first start by comparing it to all other vehicles as a whole, then move to comparing it to vehicles of the same type. Metrics of interest would be fuel economy (both city and highway), warranty (length and type of coverage), horsepower rating, 0-60 (mph) times, 
